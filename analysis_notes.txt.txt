@@ -1,0 +1,9 @@
+Postal Code: Has missing values.
+Profit: Contains negative values (these are valid losses, not errors)
+egion (Orders & People):
+* This column is CONSISTENT across both tables.
+* It contains a mix of US sub-regions (East, West, Central, South) and Global regions (Africa, EMEA, APAC, etc.).
+* This is OKAY for the SQL JOIN. It is not a problem.
+* Note for later (Dashboard): We must add a filter (e.g., by 'Market') to analyze US sub-regions separately from Global regions.
+* Order ID: e.g., "No blanks found. Looks clean."
+Order ID: [e.g., "No blanks found. Looks clean." or "Has blank values."]
