@@ -1,4 +1,4 @@
-# 🚀 Strategic Profitability Analysis: Global Superstore
+#  Strategic Profitability Analysis: Global Superstore
 
 **Analyst:** Sidhardh Suresh
 **Date:** November 2025
